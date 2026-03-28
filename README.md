@@ -27,7 +27,9 @@ Cela permet de proteger les identifiants, gerer les droits d'acces, journaliser 
 ## Demarrage du projet
 
 flutter create .
+
 flutter pub get
+
 flutter run
 
 ## Comptes de demonstration
