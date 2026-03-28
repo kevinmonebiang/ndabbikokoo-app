@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ndabbikokoo App
 
 Application Flutter elegante pour une association de la tribu Bassa de la diaspora, orientee consultation en lecture seule des informations membres et des cotisations, avec administration conservee dans Odoo.
@@ -76,3 +77,7 @@ Si le fichier n est pas encore ajoute, l interface affiche un embleme de secours
 - `lib/repositories/` : acces aux donnees
 - `lib/theme/` : identite visuelle
 - `lib/widgets/` : composants reutilisables
+=======
+# ndabbikokoo-app
+Application Flutter pour une association Bassa de la diaspora, orienté consultation en lecture seule des informations membres et des cotisations, avec administration avec Odoo.
+>>>>>>> 20265b9751519ef78b3b7523ba39e2502d0bdbc5
