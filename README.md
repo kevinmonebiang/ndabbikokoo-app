@@ -16,7 +16,7 @@ Application Flutter elegante pour une association Bassa de la diaspora, orientee
 
 ## Important sur Postgres
 
-L'application mobile ne doit pas se connecter directement a Postgres. La bonne architecture dans votre cas est :
+L'application mobile ne doit pas se connecter directement a Postgres. :
 
 1. Flutter mobile
 2. Odoo expose des routes API securisees
